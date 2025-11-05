@@ -70,8 +70,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: VG**
-📌 **Motivering:** Koden uppfyller alla krav för både G och VG. Användningen av routing, layout, context, reducer, och anpassad styling med Tailwind CSS och ytterligare komponentstilar uppfyller uppgiftens specifikationer. Koden är välstrukturerad med bra hantering av fel och lokalt lagrad data för djurens status.
+## 🏆 **Betyg: G**
+📌 **Motivering:** Projektet verkar ha grundläggande routing och styling genom Tailwind CSS vilket uppfyller några viktiga krav. Det är dock oklart om alla krav, särskilt de för VG, är fullt ut implementerade som context och reducers.
 
 💡 **Förbättringsförslag:**  
-Inga större förbättringar behövs. För framtida projekt, kan övervägas att lägga till mer omfattande enhetstester för att säkra att alla funktionaliteter fungerar som förväntat.
+Verifiera hantering av trasiga bildlänkar, implementera påvisbar datahämtning via tjänster eller custom hooks, säkerställ implementation av context och reducers för fullständig kommunikation och statuskontroll.
