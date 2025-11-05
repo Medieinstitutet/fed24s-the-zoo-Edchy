@@ -71,7 +71,7 @@ Ha roligt, skratta och lär er massor!
 
 
 ## 🏆 **Betyg: G**
-📌 **Motivering:** Projektet verkar ha grundläggande routing och styling genom Tailwind CSS vilket uppfyller några viktiga krav. Det är dock oklart om alla krav, särskilt de för VG, är fullt ut implementerade som context och reducers.
+📌 **Motivering:** Projektet uppfyller de grundläggande G-kraven med avseende på routing, stil, felhantering, och grundläggande funktionalitet för matning av djur. För VG krävs mer avancerad state management med Context och Reducers.
 
 💡 **Förbättringsförslag:**  
-Verifiera hantering av trasiga bildlänkar, implementera påvisbar datahämtning via tjänster eller custom hooks, säkerställ implementation av context och reducers för fullständig kommunikation och statuskontroll.
+Implementera användningen av Context API och Reducers för att hantera state på ett mer robust sätt. Överväg användandet av custom hooks för att hantera API-anrop och logik mer effektivt.
