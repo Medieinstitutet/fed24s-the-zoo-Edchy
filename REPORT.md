@@ -71,7 +71,7 @@ Ha roligt, skratta och lär er massor!
 
 
 ## 🏆 **Betyg: G**
-📌 **Motivering:** Projektet uppfyller de grundläggande G-kraven med avseende på routing, stil, felhantering, och grundläggande funktionalitet för matning av djur. För VG krävs mer avancerad state management med Context och Reducers.
+📌 **Motivering:** Koden uppfyller alla grundläggande krav för betyg G, eftersom den implementerar ruttning, djuroversikt och möjlighet att mata djur. Projektet saknar dock implementation av context och reducers, vilket är nödvändigt för VG.
 
 💡 **Förbättringsförslag:**  
-Implementera användningen av Context API och Reducers för att hantera state på ett mer robust sätt. Överväg användandet av custom hooks för att hantera API-anrop och logik mer effektivt.
+Implementera användning av React Context för delning av tillstånd mellan komponenter. Använd reducers för att hantera djurstatus istället för useState. Implementera en custom hook för API-anrop för att uppfylla VG-kraven.
