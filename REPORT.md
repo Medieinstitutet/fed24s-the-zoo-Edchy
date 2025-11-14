@@ -69,7 +69,7 @@ Ha roligt, skratta och lär er massor!
 
 
 ## 🏆 **Betyg: G**
-📌 **Motivering:** Projektet uppfyller alla grundläggande krav för betyg G. Koden är strukturerad och funktionaliteten är implementerad enligt specifikationerna. Det finns dock vissa områden som kan förbättras för att nå VG-nivå, såsom användning av context API och reducers, samt förbättring av användarupplevelsen med subtila animeringar.
+📌 **Motivering:** Projektet uppfyller alla grundläggande krav för betyget G. Koden är välstrukturerad och funktionaliteten är korrekt implementerad, inklusive användning av en router för att visa olika sidor, hantering av trasiga bildlänkar och användning av en annan teknik än ren CSS för styling. Dock saknas vissa VG-krav, såsom användning av context API och reducers för state management, samt subtila animeringar.
 
 💡 **Förbättringsförslag:**  
-För att nå VG-nivå bör studenten implementera context API för komponentkommunikation, använda reducers för state-hantering, och lägga till subtila animeringar. Dessutom kan koden förbättras genom att minska upprepningar och förbättra felhanteringen, särskilt vid API-anrop. Att inkludera fler kommentarer för komplex logik kan också förbättra kodens läsbarhet.
+För att uppnå VG-betyg bör studenten implementera context API och reducers för state management, samt använda subtila animeringar för att förbättra användarupplevelsen. Dessutom kan kodkvaliteten förbättras genom att minska upprepning och förbättra felhanteringen, samt att lägga till fler kommentarer för att öka kodens läsbarhet.
