@@ -69,7 +69,7 @@ Ha roligt, skratta och lär er massor!
 
 
 ## 🏆 **Betyg: G**
-📌 **Motivering:** Projektet uppfyller alla grundläggande krav för betyget G. Koden är välstrukturerad och funktionaliteten är korrekt implementerad, inklusive användning av en router för att visa olika sidor, hantering av trasiga bildlänkar och användning av en annan teknik än ren CSS för styling. Dock saknas vissa VG-krav, såsom användning av context API och reducers för state management, samt subtila animeringar.
+📌 **Motivering:** Projektet uppfyller de grundläggande kraven för betyg G. Koden är välstrukturerad och implementerar de nödvändiga funktionerna enligt uppgiften, såsom användning av en router, korrekt hantering av bildlänkar och alternativ stylingteknik. Dock saknas flera av de mer avancerade kraven för VG, såsom användning av context, reducers och subtila animeringar.
 
 💡 **Förbättringsförslag:**  
-För att uppnå VG-betyg bör studenten implementera context API och reducers för state management, samt använda subtila animeringar för att förbättra användarupplevelsen. Dessutom kan kodkvaliteten förbättras genom att minska upprepning och förbättra felhanteringen, samt att lägga till fler kommentarer för att öka kodens läsbarhet.
+För att förbättra projektet och nå VG-nivå bör studenten implementera datahämtning med tjänster eller custom hooks, använda context API för komponentkommunikation, och använda reducers för att hantera djurens state. Dessutom skulle subtila animeringar vid interaktioner och sidladdningar förbättra användarupplevelsen. Förbättrad error handling och optimering av CSS-tekniker kan också bidra till ett högre betyg.
