@@ -1,7 +1,6 @@
 # 📌 Rättningsrapport – fed24s-the-zoo-Edchy
 
 ## 🎯 Uppgiftens Krav:
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xBUCHFwF)
 # The Zoo
 
 I denna inlämningsuppgift kommer ni att bygga ett zoo. Zoo:t har ett antal djur som kommer behöva matas. 
@@ -66,12 +65,11 @@ Välj en teknik gällande css som ni antingen vill lära er mer om eller som ni 
 
 Ha roligt, skratta och lär er massor!
 
-
 ## 🔍 ESLint-varningar:
 
 
 ## 🏆 **Betyg: G**
-📌 **Motivering:** Koden uppfyller alla grundläggande krav för betyg G, eftersom den implementerar ruttning, djuroversikt och möjlighet att mata djur. Projektet saknar dock implementation av context och reducers, vilket är nödvändigt för VG.
+📌 **Motivering:** Projektet uppfyller alla grundläggande krav för betyg G. Koden är strukturerad och funktionaliteten är implementerad enligt specifikationerna. Det finns dock vissa områden som kan förbättras för att nå VG-nivå, såsom användning av context API och reducers, samt förbättring av användarupplevelsen med subtila animeringar.
 
 💡 **Förbättringsförslag:**  
-Implementera användning av React Context för delning av tillstånd mellan komponenter. Använd reducers för att hantera djurstatus istället för useState. Implementera en custom hook för API-anrop för att uppfylla VG-kraven.
+För att nå VG-nivå bör studenten implementera context API för komponentkommunikation, använda reducers för state-hantering, och lägga till subtila animeringar. Dessutom kan koden förbättras genom att minska upprepningar och förbättra felhanteringen, särskilt vid API-anrop. Att inkludera fler kommentarer för komplex logik kan också förbättra kodens läsbarhet.
