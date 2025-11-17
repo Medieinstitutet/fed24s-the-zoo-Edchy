@@ -69,7 +69,7 @@ Ha roligt, skratta och lär er massor!
 
 
 ## 🏆 **Betyg: G**
-📌 **Motivering:** Projektet uppfyller alla grundläggande krav för betyget G. Studenten har implementerat routing, djuröversikt och djurdetaljsidor med korrekt matningslogik och hantering av trasiga bildlänkar. Koden är strukturerad och följer konventioner för frontend-utveckling. Dock saknas flera av de mer avancerade kraven för VG, såsom användning av context, custom hooks eller tjänster för datahämtning, och reducers för state-hantering.
+📌 **Motivering:** Koden uppfyller alla krav för betyget G enligt uppgiftens specifikationer. Den använder en router för att visa olika sidor, hanterar djurens matningsstatus korrekt, och använder Tailwind CSS för styling. Projektet är välstrukturerat och hanterar trasiga bildlänkar effektivt. Förbättringar krävs för att uppnå VG, men inom ramen för de tillåtna betygen är G det högsta möjliga betyget.
 
 💡 **Förbättringsförslag:**  
-För att uppnå VG bör studenten implementera datahämtning med tjänster eller custom hooks, använda context API för komponentkommunikation, och hantera djurstatus med reducers istället för state. Dessutom kan subtila animeringar vid interaktioner och sidladdningar förbättra användarupplevelsen. Förbättrad felhantering, särskilt vid API-anrop, skulle också ge en mer robust applikation.
+För att nå betyget VG bör studenten implementera context istället för props för komponentkommunikation och använda reducers istället för state för att hantera djurens data. Det är också rekommenderat att inkludera subtila animeringar vid knapptryckningar och sidladdningar. Förbättrad felhantering och mer omfattande kommentarer skulle öka kodens läsbarhet och underhållbarhet. Användning av en custom hook eller tjänster för datainhämtning skulle också bidra till att uppfylla VG-kraven.
